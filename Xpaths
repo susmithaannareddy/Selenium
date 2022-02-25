@@ -1,0 +1,10 @@
+//span[@class='header-sprite logo']------- Goibibo Logo 
+//p[text()='Login or Signup']------ Login and Sign Up 
+#root > div.sticky-gutter > header > ul > li:nth-child(1) > a------Flights
+//*[@id="root"]/div[1]/header/ul/li[2]/a-----Hotels
+//label[text()='FROM']--------From
+//button[@data-testid='searchBusBtn']-------SearchButton
+//span[text()='Student Fare']-----StudentFare
+#productAnchor > div.padTB20 > div > div.txtCenter.flexCol.alignItemsCenter > a----Products
+//span[@id='roundTrip']----RoundTrip
+
